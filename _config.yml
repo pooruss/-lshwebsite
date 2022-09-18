@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pooruss"
-  avatar           : "/Users/liangshihao/Downloads/photo/WechatIMG29.jpeg"
+  avatar           : "/photo/WechatIMG29.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Beijing, China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/pooruss"
+  github           : "pooruss"
   google_plus      :
   keybase          :
   instagram        :
