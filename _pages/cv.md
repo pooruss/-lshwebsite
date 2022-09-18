@@ -39,6 +39,7 @@ Research experience
       * Constructed a pipeline which can generate distant supervision QA data, based on Bert for sequence classification, Mengzi model for question generation, and Pert model for machine reading comprehension(MRC). Given a large and high-quality context corpus, it generated a high-quality dataset intended for extractive MRC tasks, consisting of about 140 million question answers pairs. Experimental results showed that the data we produced can bring 2% to 6% improvement on four Chinese MRC benchmarks.
       * WebCPM: Built and applied the answer reranker based on CPM1 model to WebCPM. Given a question, WebCPM can do 13 operations to collect data online, and then generate the answer corresponding to the question according to the collected data. The project has been pre-launched on Zhihu, and we have been able to generate a logical coherent, semantically fluent and knowledge-rich answer to the hot issues on Zhihu.
   * Supervisor: Professor Liu
+  
 Skills
 ======
 * Skill 1
