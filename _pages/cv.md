@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Tianjin University, 2022
+* B.S. in Tianjin University, 20222
 
 Work experience
 ======
