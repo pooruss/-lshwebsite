@@ -2,7 +2,7 @@ lsi: false
 safe: true
 source:      .
 includes:    ./_includes
-baseurl: /pooruss.github.io
+baseurl: /-lshwebsite
 incremental: false
 highlighter: rouge
 gist:
