@@ -5,15 +5,14 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.html 
 ---
 
-This is pooruss's home on the web.
+I am a research assistant at THUNLP Lab, Tsinghua University. I am fortunately co-advised by [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html), and [Xu Han](https://thucsthanxu13.github.io/). Before that, I received my B.E. in Computer Science from [Tianjin University](http://www.sysu.edu.cn/en/index.htm), advised by Prof.[Ruifang He](http://cic.tju.edu.cn/info/1099/2746.htm). My research interests include unsupervised learning and transfer learning in natural language processing. 
 
-A personal website
-======
 
-Getting started
+
+Publication
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
