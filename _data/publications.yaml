@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Tool Learning with Foundation Models"
+   authors: "Yujia Qin<sup>‡</sup>, Shengding Hu<sup>‡</sup>, <b>Yankai Lin<sup>‡</sup></b>, et al."
+    venue: "ArXiv"
+    paper_pdf: "/assets/publications/arxiv_toollearning/paper.pdf"
+    thumbnail: "assets/publications/arxiv_toollearning/thumbnail.png"
+    selected: y
+  
 #   - title: "QASnowball: An Iterative Bootstrapping Framework for High-Quality Question-Answering Data Generation"
 # #    authors: "Xu Han<sup>‡</sup>, Kunlun Zhu<sup>‡</sup>, <b>Shihao Liang<sup>‡</sup></b>, Zhi Zheng, Guoyang Zeng, Zhiyuan Liu and Maosong Sun"
 #     venue: "ACL 2023 Long Paper, under review"
@@ -14,10 +21,3 @@ papers:
 #     paper_pdf: "/assets/publications/2023_acl_webcpm/paper.pdf"
 #     thumbnail: "assets/publications/2023_acl_webcpm/thumbnail.png"
 #     selected: y
-
-  - title: "Tool Learning with Foundation Models"
-   authors: "Yujia Qin<sup>‡</sup>, Shengding Hu<sup>‡</sup>, <b>Yankai Lin<sup>‡</sup></b>, et al."
-    venue: "ArXiv"
-    paper_pdf: "/assets/publications/arxiv_toollearning/paper.pdf"
-    thumbnail: "assets/publications/arxiv_toollearning/thumbnail.png"
-    selected: y
