@@ -19,5 +19,5 @@ papers:
    authors: "Yujia Qin<sup>‡</sup>, Shengding Hu<sup>‡</sup>, <b>Yankai Lin<sup>‡</sup></b>, et al."
     venue: "ArXiv"
     paper_pdf: "/assets/publications/arxiv_toollearning/paper.pdf"
-    thumbnail: "/assets/publications/arxiv_toollearning/thumbnail.png"
+    thumbnail: "assets/publications/arxiv_toollearning/thumbnail.png"
     selected: y
