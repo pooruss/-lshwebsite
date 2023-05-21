@@ -1,19 +1,25 @@
 experiences:
 
+- place: "ModelBest"
+  time: "January 2023 - Present"
+  title: "NLP Research and Development Engineer"
+  subtitle: "NLP Algorithm Department"
+  category: "work"
+
 - place: "Tsinghua University"
-  time: "Jul 2022 - "
+  time: "April 2022 - December 2022"
   title: "Research Assistant"
-  subtitle: "THUNLP"
+  subtitle: "THUNLP Lab"
   category: "work"
 
 - place: "Baidu"
   time: "Oct 2021 - Apr 2022"
-  title: "R&D Intern"
+  title: "Research and Development Intern"
   subtitle: "DQA Group, NLP Department"
   category: "work"
 
 - place: "Tianjin University"
   time: "Sep 2018 - June 2022"
   title: "B.Eng. Student"
-  subtitle: "Intelligence and Computing Department "
+  subtitle: "Intelligence and Computing Department"
   category: "school"
