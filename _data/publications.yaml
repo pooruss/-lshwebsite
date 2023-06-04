@@ -16,9 +16,3 @@ papers:
     code: "https://github.com/thunlp/WebCPM"
     selected: y
  
-  - title: "Bi-Link: Bridging Inductive Link Predictions from Text via Contrastive Learning of Transformers and Prompts"
-    authors: "Bohua Peng, <b>Shihao Liang</b>, Mobarakol Islam"
-    venue: "arXiv"
-    paper_pdf: "/assets/publications/arxiv_bilink/paper.pdf"
-    thumbnail: "assets/publications/arxiv_bilink/thumbnail.png"
-    selected: y
