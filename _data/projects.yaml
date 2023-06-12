@@ -1,11 +1,12 @@
 projects:
   - title: "ToolBench"
     subtitle: "An open platform for training, serving, and evaluating large language model for tool learning."
-    thumbnail: "assets/projects/2023_toolbench/ToolLLaMA-logo.png"
+    thumbnail: "assets/projects/2023_toolbench/thumbnail.png"
     url: "https://github.com/OpenBMB/ToolBench"
     selected: y
 
   - title: "BMTools"
     subtitle: "Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins."
+    thumbnail: "assets/projects/2023_bmtools/thumbnail.png"
     url: "https://github.com/OpenBMB/BMTools"
     selected: y
