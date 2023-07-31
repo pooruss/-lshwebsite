@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Exploring Format Consistency for Instruction Tuning"
+    authors: "<b>Shihao Liang<sup>‡</sup></b>, Kunlun Zhu<sup>‡</sup>, Runchu Tian<sup>‡</sup>, Yujia Qin, Huadong Wang, Xin Cong, Zhiyuan Liu, Xiaojiang Liu, Maosong Sun."
+    venue: "arXiv"
+    paper_pdf: "/assets/publications/arxiv_uit/paper.pdf"
+    thumbnail: "assets/publications/arxiv_uit/thumbnail.png"
+    selected: y
+
   - title: "Tool Learning with Foundation Models"
     authors: "Yujia Qin<sup>‡</sup>, Shengding Hu<sup>‡</sup>, Yankai Lin<sup>‡</sup>, et al."
     venue: "arXiv"
