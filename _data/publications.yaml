@@ -1,7 +1,7 @@
 papers:
 
   - title: "ToolLLM: Facilitating Large Language Models To Master 16000+ Real-World APIs"
-    authors: "Yujia Qin<sup>‡</sup>, <b>Shihao Liang<sup>‡</sup></b>, Yining Ye, et al."
+    authors: "Yujia Qin<sup>‡</sup>, <b>Shihao Liang<sup>‡</sup></b>, Yining Ye, Kunlun Zhu, Lan Yan, et al."
     venue: "arXiv"
     paper_pdf: "/assets/publications/arxiv_toolllm/paper.pdf"
     thumbnail: "assets/publications/arxiv_toolllm/thumbnail.png"
