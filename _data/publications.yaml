@@ -1,5 +1,12 @@
 papers:
 
+  - title: "ToolLLM: Facilitating Large Language Models To Master 16000+ Real-World APIs"
+    authors: "Yujia Qin<sup>‡</sup>, <b>Shihao Liang<sup>‡</sup></b>, Yining Ye, et al."
+    venue: "arXiv"
+    paper_pdf: "/assets/publications/arxiv_toolllm/paper.pdf"
+    thumbnail: "assets/publications/arxiv_toolllm/thumbnail.png"
+    selected: y
+
   - title: "Exploring Format Consistency for Instruction Tuning"
     authors: "<b>Shihao Liang<sup>‡</sup></b>, Kunlun Zhu<sup>‡</sup>, Runchu Tian<sup>‡</sup>, Yujia Qin, Huadong Wang, Xin Cong, Zhiyuan Liu, Xiaojiang Liu, Maosong Sun."
     venue: "arXiv"
@@ -28,5 +35,5 @@ papers:
     venue: "arXiv"
     paper_pdf: "/assets/publications/arxiv_bilink/paper.pdf"
     thumbnail: "assets/publications/arxiv_bilink/thumbnail.png"
-    selected: y
+    selected: n
  
