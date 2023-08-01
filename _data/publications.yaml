@@ -5,6 +5,8 @@ papers:
     venue: "arXiv"
     paper_pdf: "/assets/publications/arxiv_toolllm/paper.pdf"
     thumbnail: "assets/publications/arxiv_toolllm/thumbnail.png"
+    code: "https://github.com/OpenBMB/ToolBench"
+    data: "https://drive.google.com/drive/folders/1yBUQ732mPu-KclJnuQELEhtKakdXFc3J"
     selected: y
 
   - title: "Exploring Format Consistency for Instruction Tuning"
