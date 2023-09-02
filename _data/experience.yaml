@@ -1,5 +1,11 @@
 experiences:
 
+- place: "The University of Hong Kong"
+  time: "Sep 2023 - Present"
+  title: "MSc Student"
+  subtitle: "Department of Computer Science"
+  category: "school"
+
 - place: "Tsinghua University"
   time: "July 2022 - July 2023"
   title: "Research Assistant"
