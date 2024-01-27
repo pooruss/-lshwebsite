@@ -1,4 +1,12 @@
 papers:
+  - title: "Investigate-Consolidate-Exploit: A General Strategy for Inter-Task Agent Self-Evolution"
+    authors: "Cheng Qian<sup>‡</sup>, <b>Shihao Liang<sup>‡</sup></b>, Yujia Qin, Yining Ye, et al."
+    venue: "arXiv"
+    paper_pdf: "/assets/publications/arxiv_ice/paper.pdf"
+    thumbnail: "assets/publications/arxiv_ice/thumbnail.png"
+    code: "https://github.com/OpenBMB/XAgent/tree/main"
+    selected: y
+
   - title: "ToolLLM: Facilitating Large Language Models To Master 16000+ Real-World APIs"
     authors: "Yujia Qin<sup>‡</sup>, <b>Shihao Liang<sup>‡</sup></b>, Yining Ye, Kunlun Zhu, Lan Yan, et al."
     venue: "arXiv"

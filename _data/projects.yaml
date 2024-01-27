@@ -1,4 +1,10 @@
 projects:
+  - title: "XAgent"
+    subtitle: "An Autonomous LLM Agent for Complex Task Solving."
+    thumbnail: "assets/projects/2023_xagent/thumbnail.png"
+    url: "https://github.com/OpenBMB/XAgent"
+    selected: y
+
   - title: "ToolBench"
     subtitle: "An open platform for training, serving, and evaluating large language model for tool learning."
     thumbnail: "assets/projects/2023_toolbench/thumbnail.png"
