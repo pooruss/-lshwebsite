@@ -6,6 +6,12 @@ experiences:
   subtitle: "Department of Computer Science"
   category: "school"
 
+- place: "ByteDance"
+  time: "August 2024 - Present"
+  title: "Research Intern"
+  subtitle: "Seed-VLM"
+  category: "internship"
+
 - place: "Tsinghua University"
   time: "July 2022 - July 2023"
   title: "Research Assistant"
